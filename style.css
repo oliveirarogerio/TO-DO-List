@@ -91,5 +91,5 @@ header button{
 
 
     #completed:empty:after{
-	content:"You can complete or add new tasks";
+	content:"Complete ou adicione novas tarefas";
 }
