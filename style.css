@@ -6,7 +6,7 @@ body{
 
 header{
     padding: 1rem;
-    box-shadow: 0 2px 4px rgb(0, 0, 0);
+    box-shadow: 0 2px 4px   rgb(0, 0, 0);
     background: #000000;
 }
 
@@ -86,7 +86,7 @@ header button{
 
 
     #todo:empty:after{
-	content:"Nothing to do";
+	content:" ";
 }
 
 
